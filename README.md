@@ -2,7 +2,7 @@
 theme: "black"
 transition: "slide"
 slideNumber: false
-title: "サンプル"
+title: "editorlt"
 ---
 <style type="text/css">
   .reveal h1,
@@ -59,6 +59,14 @@ title: "サンプル"
 
 ---
 
+# GitHub Codespaces
+
+* GitHubがクラウドホストしている開発環境
+* 豊富なVS Codeの拡張機能が利用可能
+* ブラウザベースでいつでも、どこでも使える
+
+---
+
 開発体験は誰にとっても重要な時代に {.fragment .fade-up}
 
 ---
@@ -106,16 +114,9 @@ https://github.com/microsoft/vscode
 ---
 
 ### 失敗しないために
-1. 基礎の強化
-2. コードを書く習慣化
+1. 基礎を理解する
+2. 学ぶことを習慣にする
 3. モチベーション
-
----
-
-### おすすめの技術分野
-* パブリッククラウド
-* AI / Machine Learning
-* プログラミング
 
 ---
 
@@ -127,33 +128,13 @@ VS Codeとの相性抜群✨
 
 ---
 
-### 将来、学習しておくとお得な分野
-<br>
-
-量子コンピューター
-
----
-
-### スキルの可視化するということ
-<br>
-例えば...  
-
-**IBM Training (IBM z/OS)** 
-
-<span style="font-size: 90%; color: limegreen;"> COBOL Programming with VSCode </span>  
-
-<span style="font-size: 90%; color: limegreen;"> Digital Badge🏅 </span>
-
-
----
-
-### やっておいたほうが良いこと
+### みんなでフィードバックしよう！
 <br>
 
 ## オープンソースへの貢献👩‍💻👨‍💻
 
 <br>
-VS Codeを通じて貢献できることはたくさんある
+貢献できることはたくさんある
 
 ---
 
@@ -161,7 +142,8 @@ VS Codeを通じて貢献できることはたくさんある
 
 ### テーマ: Happy Extension
 
-⭐️セッション一般公募へ応募ください！
+⭐️セッション一般公募を大募集中！
+⭐️VS Codeネタであれば何でもOKです！！
 
 * 開催日: 2021年11月20日(土)  
 * 開催形式: オンライン
@@ -174,7 +156,7 @@ https://vscode.connpass.com/event/221961/
 
 ### まとめ
 
-* 自分とVS Codeの可能性を信じる  
+* GitHub Codespaces使えるうちに使い倒す  
 <br>
 
 * 開発スキルアップは計画を立てて実施する
@@ -188,6 +170,6 @@ https://vscode.connpass.com/event/221961/
 
 * 職業「戸倉彩」 @ayatokura
 
-* VS Code Insiders v1.60.0
+* VS Code Standard v1.60.1
 
 * GitHub Codespaces
